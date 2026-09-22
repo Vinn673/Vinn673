@@ -1,77 +1,62 @@
-# Hi, I'm Marvin 👋
+# Hi, I'm Marvin Adriano 👋
 
-Computer Science student at BINUS University, specializing in Intelligent Systems (AI)
+Computer Science Student at **BINUS University**  
+Specializing in **Intelligent System (AI)**
 
 ---
 
 ### About Me
 
-I'm a 5th-semester Computer Science student majoring in Intelligent System (AI) at BINUS University. I'm interested in Artificial Intelligence — especially Computer Vision — as well as Web and Frontend Development. I enjoy building projects, exploring new technologies, and turning ideas into something interactive.
+I'm a 5th-semester Computer Science student at BINUS University, specializing in Intelligent System (AI). I'm interested in **Artificial Intelligence**, especially **Computer Vision**, as well as **Web and Frontend Development**.
 
-### Areas of Interest
+I enjoy building projects, exploring new technologies, and turning ideas into interactive and useful applications.
 
-* Artificial Intelligence
-* Computer Vision
-* Web Development
-* Frontend Development
+### Interests
 
-### Currently Learning
+- Artificial Intelligence
+- Computer Vision
+- Web Development
+- Frontend Development
 
-* Artificial Intelligence
-* Speech Recognition
+### Tech Stack
 
-### Programming Languages
-
-* **Python** — Primary programming language
-* **C**
-* **HTML / CSS**
-* **Java** *(Basic)*
-
-### Technologies
-
-* PyTorch
-* MediaPipe
-* Flask
-* Streamlit
-
-### Tools
-
-* GitHub
-* VS Code
-* Figma
-* Anaconda
-* Jupyter Notebook
-
-*Most used: GitHub, VS Code, Figma*
+| Category | Technologies |
+|----------|--------------|
+| **Programming Languages** | **Python** · C++ · HTML / CSS · Java *(Basic)* |
+| **AI & Development** | PyTorch · MediaPipe · Flask · Streamlit |
+| **Tools** | GitHub · VS Code · Figma · Anaconda · Jupyter Notebook |
 
 ---
 
 ### Featured Projects
 
-<!-- More projects will be added here as I build them -->
+#### AirBlocks — Computer Vision Block Puzzle
 
-**AirBlocks — Computer Vision Block Puzzle**
-*Group project*
+*Group Project*
 
-A block puzzle game controlled entirely through hand gestures, using computer vision and a webcam. Players pinch to pick up blocks and release the pinch to drop them.
+A block puzzle game controlled using hand gestures through a webcam. Players can use a pinch gesture to pick up blocks and release the gesture to drop them.
 
-Technologies: Python, Computer Vision, MediaPipe, Webcam / Hand Gesture Interaction
+**Technologies:** Python · MediaPipe · Computer Vision
 
 ---
 
 ### Career Interests
 
-I'm exploring opportunities in:
+I'm currently exploring opportunities in:
 
-* AI Engineering / Artificial Intelligence
-* Frontend Development
+- AI Engineering
+- Frontend Development
 
-I'm looking to grow through real-world projects and hands-on experience while continuing to build my technical skills.
+I'm interested in gaining hands-on experience, building practical projects, and continuing to grow my skills through real-world development.
 
 ---
 
-### Contact
+### Connect With Me
 
-* Email: [marvinadr1703@gmail.com](mailto:marvinadr1703@gmail.com)
-* LinkedIn: [marvin-adriano-a2a4a033](https://www.linkedin.com/in/marvin-adriano-a2a4a033/)
-* Instagram: [marvin_adriano](https://www.instagram.com/marvin_adriano/)
+- **Email:** [marvinadr1703@gmail.com](mailto:marvinadr1703@gmail.com)
+- **LinkedIn:** [marvin-adriano-a2a4a033](https://www.linkedin.com/in/marvin-adriano-a2a4a033/)
+- **Instagram:** [@marvin_adriano](https://www.instagram.com/marvin_adriano/)
+
+---
+
+*More projects coming soon.*
