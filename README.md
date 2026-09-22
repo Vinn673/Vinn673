@@ -15,7 +15,6 @@ I enjoy building projects, exploring new technologies, and turning ideas into in
 
 - Artificial Intelligence
 - Computer Vision
-- Web Development
 - Frontend Development
 
 ### Tech Stack
