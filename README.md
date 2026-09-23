@@ -13,8 +13,7 @@ I enjoy building projects, exploring new technologies, and turning ideas into in
 
 ### Interests
 
-- Artificial Intelligence
-- Computer Vision
+- AI Driven Solution
 - Frontend Development
 
 ### Tech Stack
@@ -43,7 +42,7 @@ A block puzzle game controlled using hand gestures through a webcam. Players can
 
 I'm currently exploring opportunities in:
 
-- AI Engineering
+- AI Driven Solution
 - Frontend Development
 
 I'm interested in gaining hands-on experience, building practical projects, and continuing to grow my skills through real-world development.
