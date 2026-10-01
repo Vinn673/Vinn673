@@ -7,7 +7,7 @@ Specializing in **Intelligent Systems (AI)**
 
 ### About Me
 
-I'm a 5th-semester Computer Science student at BINUS University, specializing in Intelligent Systems (AI). I'm interested in **Artificial Intelligence**, especially **Computer Vision and Machine Learning**, as well as **Web and Frontend Development**.
+I'm a 5th-semester Computer Science student at BINUS University, specializing in Intelligent Systems (AI). I'm interested in AI Engineering and Frontend Development, with a focus on building practical and useful applications.
 
 I enjoy building projects, exploring new technologies, and turning ideas into interactive and useful applications.
 
